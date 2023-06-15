@@ -1,0 +1,39 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .logo {
+    font-size: 24px;
+  }
+  
+  .search-box input[type="text"] {
+    padding: 5px;
+    border: none;
+    border-radius: 3px;
+    margin-right: 5px;
+  }
+  
+  .search-box button {
+    padding: 5px 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .icons a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .icons i {
+    font-size: 18px;
+  }
+  
